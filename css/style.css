@@ -1,0 +1,30 @@
+.parent{
+    text-align: center;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 80px;
+    line-height: normal;
+    font-weight: 700;
+}
+p{
+    font-family: 'Times New Roman', Times, ;
+    color: black;
+    font-size: 35px;
+    line-height: normal;
+    font-weight: 400;
+}
+button{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    line-height: normal;
+    font-weight: 400;
+    background-color: #0000FF;
+    padding: 30px 90px;
+}
+button:hover{
+    background-color: #008000;
+}
